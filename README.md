@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Hardik
-- I’m interested in challanges based on c/c++, arduino.
-- I’m currently pursuing undergrad. 
+
